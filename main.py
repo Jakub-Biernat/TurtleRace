@@ -35,5 +35,4 @@ def race():
 
 
 race()
-
 my_screen.exitonclick()
